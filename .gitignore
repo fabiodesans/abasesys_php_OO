@@ -1,0 +1,2 @@
+# Arquivos que não devem ser enviados para o repositório de versionamento
+/vendor/
